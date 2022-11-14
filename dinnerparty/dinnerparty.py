@@ -18,7 +18,7 @@ else:
     print("Enter the name of every friend (including you), each on a new line:")
 
     for i in range(0, intinput):
-        friendslov[input(">")] = 0
+        friendslov[input("")] = 0
 
 
 # вычисление суммы на каждого
